@@ -20,6 +20,7 @@ RUN apt-get autoremove -y \
 # This will automatically enable the vscode server's features
 RUN useradd -m vscode
 USER vscode
+COPY . .
 WORKDIR /home/vscode
 
 # This will enable the terminal's interactive shell
