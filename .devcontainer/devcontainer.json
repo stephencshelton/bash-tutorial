@@ -1,0 +1,27 @@
+{
+  "name": "Ubuntu 22.04 Dev Container",
+  "dockerFile": "Dockerfile",
+  "context": "..",
+  "runArgs": [ "-u", "vscode" ],
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "rogalmic.bash-debug",
+        "timonwong.shellcheck",
+        "bashide.vscode-bash-ide",
+        "formulahendry.code-runner",
+        "eamodio.gitlens"
+      ],
+      "settings": {
+        "terminal.integrated.profiles.linux": {
+          "bash": {
+              "path": "/bin/bash"
+          }
+        }
+      },
+      "terminal.integrated.defaultProfile.linux": "bash"
+    }
+  },
+  "workspaceFolder": "/workspace",
+  "mounts": ["source=/var/run/docker.sock,target=/var/run/docker.sock,type=bind"],
+}
