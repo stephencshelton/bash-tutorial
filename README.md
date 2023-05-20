@@ -44,18 +44,11 @@ This repository provides an interactive learning experience for Terraform and Ba
 - **Lesson 11**: Learn about arrays in Bash.
 - **Lesson 12**: Learn about associative arrays in Bash.
 
-**Terraform Lessons:**
-
-- **Lesson 1**: Learn to create an AWS S3 bucket.
-- **Lesson 2**: Learn to create an AWS EC2 instance.
-- **Lesson 3**: Learn to create an AWS VPC.
-- **Lesson 4**: Learn to create an AWS Security Group.
-
 ## Instructions
 
-1. Open the respective `.sh` (for Bash) or `.tf` (for Terraform) file of the lesson you want to work on.
-2. Follow the instructions provided in the comments.
-3. After completing the exercise, run the corresponding check script (`.sh` for Bash, `go test` command for Terraform) to validate your implementation.
+1. Open the respective `.md` file of the lesson you want to work on.
+2. Follow the instructions provided in the markdown file.
+3. After completing the exercise, run the corresponding check script `./check_lesson_<number>.sh` to validate your implementation.
 4. If the check script doesn't output any errors, you have completed the lesson successfully. If there are any errors, revisit your script, debug and run the check script again.
 
 Happy Learning!
