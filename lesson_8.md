@@ -1,7 +1,7 @@
 # Exercise: Array Manipulation in Bash
 # Requirements
 - Create a new Bash script in the same directory as this script. 
-- Name the script array.sh.
+- Name the script array.sh
 - The script should start with a shebang line specifying /bin/bash as the interpreter.
 - The script should define an array named 'fruits' containing the following elements: "Apple", "Banana", "Cherry".
 - The script should print the second element of the 'fruits' array.

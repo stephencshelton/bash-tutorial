@@ -21,6 +21,7 @@ RUN apt-get autoremove -y \
 RUN useradd -m vscode
 USER vscode
 COPY . .
+RUN chown -R vscode:vscode .
 WORKDIR /home/vscode
 
 # This will enable the terminal's interactive shell
