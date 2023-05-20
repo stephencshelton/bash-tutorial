@@ -24,6 +24,7 @@ USER vscode
 COPY . .
 
 USER root
+RUN dos2unix ./*
 RUN chown -R vscode:vscode .
 WORKDIR /home/vscode
 
