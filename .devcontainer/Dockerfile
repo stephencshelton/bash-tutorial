@@ -10,7 +10,8 @@ RUN apt-get update && apt-get install -y \
     curl \
     vim \
     build-essential \
-    shellcheck
+    shellcheck \
+    dos2unix
 
 # Clean up to reduce image size
 RUN apt-get autoremove -y \
