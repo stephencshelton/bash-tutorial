@@ -42,7 +42,8 @@ This repository provides an interactive learning experience for Terraform and Ba
 - **Lesson 9**: Learn about until loops.
 - **Lesson 10**: Learn about functions in Bash.
 - **Lesson 11**: Learn about arrays in Bash.
-- **Lesson 12**: Learn about associative arrays in Bash.
+- **Lesson 12**: Learn about file manipulation in Bash.
+- **Lesson 13**: Learn about functions in Bash.
 
 ## Instructions
 
