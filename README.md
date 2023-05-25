@@ -32,18 +32,17 @@ This repository provides an interactive learning experience for Terraform and Ba
 **Bash Lessons:**
 
 - **Lesson 1**: Learn to print a string to the console.
-- **Lesson 2**: Learn to take an input from the user.
-- **Lesson 3**: Learn about variables in Bash.
-- **Lesson 4**: Learn about basic arithmetic operations.
-- **Lesson 5**: Learn about conditional statements (if-else).
-- **Lesson 6**: Learn about switch case statements.
-- **Lesson 7**: Learn about for loops.
-- **Lesson 8**: Learn about while loops.
-- **Lesson 9**: Learn about until loops.
-- **Lesson 10**: Learn about functions in Bash.
-- **Lesson 11**: Learn about arrays in Bash.
-- **Lesson 12**: Learn about file manipulation in Bash.
-- **Lesson 13**: Learn about functions in Bash.
+- **Lesson 2**: Learn about variables in Bash.
+- **Lesson 3**: Learn about conditional statements (if-else).
+- **Lesson 4**: Learn about for loops.
+- **Lesson 5**: Learn about command line arguments.
+- **Lesson 6**: Learn about bash functions.
+- **Lesson 7**: Learn about user input.
+- **Lesson 8**: Learn about array manipulation in Bash.
+- **Lesson 9**: Learn about conditional execution.
+- **Lesson 10**: Learn about looping over bash arrays.
+- **Lesson 11**: Learn about multiple command line arguments.
+- **Lesson 12**: Learn about file manipulation in bash.
 
 ## Instructions
 
