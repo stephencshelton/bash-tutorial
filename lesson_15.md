@@ -1,5 +1,5 @@
 
-# Lesson 10: Logical Operators in Bash
+# Lesson: Logical Operators in Bash
 In this exercise, you are going to learn how to use logical operators in Bash.
 Logical operators are used to perform operations based on one or more conditions.
 # Requirements:

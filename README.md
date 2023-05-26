@@ -43,6 +43,11 @@ This repository provides an interactive learning experience for Terraform and Ba
 - **Lesson 10**: Learn about looping over bash arrays.
 - **Lesson 11**: Learn about multiple command line arguments.
 - **Lesson 12**: Learn about file manipulation in bash.
+- **Lesson 13**: Learn about process redirects in bash.
+- **Lesson 14**: Learn about pipes in bash.
+- **Lesson 15**: Learn about logical operators in bash.
+- **Lesson 16**: Learn about sourcing external scripts in bash.
+- **Lesson 17**: Learn about file descriptors in bash.
 
 ## Instructions
 

@@ -1,4 +1,4 @@
-# Lesson 8: Process Redirects in Bash
+# Lesson: Process Redirects in Bash
 
 In this exercise, you are going to learn how to use process redirects in Bash Process redirection is a function of the shell that allows the input or output of a command to be redirected to a file or another command.
 # Requirements:

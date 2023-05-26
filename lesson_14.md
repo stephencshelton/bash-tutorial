@@ -1,4 +1,4 @@
-# Lesson 9: Pipes in Bash
+# Lesson: Pipes in Bash
 In this exercise, you are going to learn how to use pipes in Bash.
 A Pipe is a symbol used in the command line to send the output of one command to another.
 # Requirements:
