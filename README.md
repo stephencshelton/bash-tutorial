@@ -48,6 +48,10 @@ This repository provides an interactive learning experience for Terraform and Ba
 - **Lesson 15**: Learn about logical operators in bash.
 - **Lesson 16**: Learn about sourcing external scripts in bash.
 - **Lesson 17**: Learn about file descriptors in bash.
+- **Lesson 18**: Learn about signal handling in bash.
+- **Lesson 19**: Learn about networking in bash.
+- **Lesson 20**: Learn about regular expressions in bash.
+- **Lesson 18**: Learn about signal handling in bash.
 
 ## Instructions
 
