@@ -18,6 +18,8 @@ if [[ -z "${greeting}" ]]; then
     exit 1
 fi
 
+STUDENT_OUTPUT=$(./bash_lesson_source_script.sh)
+
 # Check if the student script output matches the expected output
 EXPECTED_OUTPUT="Hello, world!"
 if [[ "${EXPECTED_OUTPUT}" != "${STUDENT_OUTPUT}" ]]; then
